@@ -1,3 +1,5 @@
+![Screenshot from 2024-04-25 21-19-11](https://github.com/SohamV1/ELK-Nodejs-APM/assets/98699198/717cdff4-5763-420c-9b61-532f8817ebe5)
+
 # Snappy - Chat Application 
 Snappy is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
 
