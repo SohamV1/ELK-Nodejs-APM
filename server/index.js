@@ -1,4 +1,3 @@
-const apm = require('elastic-apm-node').start({serviceName: "node-app"});
 const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
